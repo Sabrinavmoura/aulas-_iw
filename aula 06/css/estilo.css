@@ -1,0 +1,16 @@
+p{ 
+    color: blue;
+}
+.um{
+    color:red ;
+} 
+.dois{
+    color:greenyellow;
+}
+.tres{
+    color: aquamarine;
+}
+#titulo{
+    color: cornflowerblue;
+    border: 2px solid cornflowerblue ;
+}
